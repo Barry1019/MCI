@@ -1,0 +1,42 @@
+MOVE ALL DISKS FROM POLE 1 TO POLE 3 AND MAKE POLE 2 AN AUXILIARY POLE
+1. base case - when there is only 1 disk
+   move disk 1 from pole 1(fromPole) to pole 3(toPole)
+2. recursion - when there are more than 1 disk
+   move each disk except the last one from pole 1(fromPole) to pole 2(auxPole)
+   move the last disk to from pole 1(fromPole) to pole 3(toPole)
+   move the rest disks from pole 2(auxPole) to pole 3(toPole)
+
+
+
+For iterative algorithm:
+From the recursive algorithm, I figured out that the total moves of n disks should be 2 ^ n - 1
+
+PART I
+1. We can see all disks as 2 parts, the last one and the rest
+2. In this case, we can shrink the case into 2 models - 1 disk and 2 disks
+3. When there is 1 disk, directly move it to toPole, whereas move the first to auxPole and the second to toPole when there are 2
+4. Then we can extend 2 models to disks of even number and odd number
+5. When it is even, move the first to toPole, or move it to auxPole if it is odd
+
+PART II
+Based on PART I, there are two patterns
+7. There is a pattern of move when disk number is odd:
+   From first move to sixth
+     7.1. fromPole to toPole
+     7.2 fromPole to auxPole
+     7.3. toPole to auxPole
+     7.4. fromPole to toPole
+     7.5. auxPole to fromPole
+     7.6. auxPole to toPole
+8. There is a pattern of move when disk number is even:
+	From first move to sixth, based on PART I, just exchange all toPole and auxPole in 7
+	 8.1. fromPole to auxPole
+     8.2 fromPole to toxPole
+     8.3. auxPole to toxPole
+     8.4. fromPole to auxPole
+     8.5. toPole to fromPole
+     8.6. toPole to auxPole
+
+PART III
+9. For disk number, there should be an array to store its position
+
