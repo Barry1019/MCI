@@ -1,5 +1,5 @@
 # MCI
-All school projects of Uni Adelaide
+All school projects
 
 Repository 'os' contains codes of 2 assignments of Operating Systems.
 One is a multi-process ticket booker with 2 queues applying different schedule algorithms.
