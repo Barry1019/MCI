@@ -9,3 +9,5 @@ Repository 'adsa' contains codes of 1 assignment of Algorithm and Data Structure
 This one is very simple - apply Dijkstra's algorithm.
 
 Repository 'cs' contains codes of 3 assignments of Computer System, which together form a complete compiler of Jack language.
+
+Repository 'fcs' contains some basic Java codes including sorting, searching and recursive.
