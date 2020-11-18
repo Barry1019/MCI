@@ -1,0 +1,345 @@
+30s arrive a0 in queue1 left415
+30s process a0 in queue1 left410
+35s process a0 in queue1 left405
+40s arrive a4 in queue1 left275
+40s process a0 in queue1 left400
+45s process a0 in queue1 left395
+50s process a0 in queue1 left390
+55s process a0 in queue1 left385
+60s arrive a3 in queue1 left240
+60s process a0 in queue1 left380
+65s process a0 in queue1 left375
+70s arrive a2 in queue1 left200
+70s process a0 in queue1 left370
+75s process a0 in queue1 left365
+80s process a0 in queue1 left360
+85s process a0 in queue1 left355
+90s arrive a1 in queue1 left130
+90s process a0 in queue1 left350
+95s process a0 in queue1 left345
+100s process a0 in queue1 left340
+105s process a0 in queue1 left335
+110s process a0 in queue1 left330
+115s process a0 in queue1 left325
+time 120
+a4 1 0 left275
+a3 1 0 left240
+a2 1 0 left200
+a1 1 0 left130
+a0 1 1 left325
+queue2
+120s process a4 in queue1 left270
+125s process a4 in queue1 left265
+130s process a4 in queue1 left260
+135s process a4 in queue1 left255
+140s process a4 in queue1 left250
+145s process a4 in queue1 left245
+150s process a4 in queue1 left240
+155s process a4 in queue1 left235
+160s process a4 in queue1 left230
+165s process a4 in queue1 left225
+170s process a4 in queue1 left220
+175s process a4 in queue1 left215
+180s process a4 in queue1 left210
+185s process a4 in queue1 left205
+190s process a4 in queue1 left200
+195s process a4 in queue1 left195
+200s process a4 in queue1 left190
+205s process a4 in queue1 left185
+time 210
+a3 1 0 left240
+a2 1 0 left200
+a1 1 0 left130
+a0 1 1 left325
+a4 1 1 left185
+queue2
+210s process a3 in queue1 left235
+215s process a3 in queue1 left230
+220s process a3 in queue1 left225
+225s process a3 in queue1 left220
+230s process a3 in queue1 left215
+235s process a3 in queue1 left210
+240s process a3 in queue1 left205
+245s process a3 in queue1 left200
+250s process a3 in queue1 left195
+255s process a3 in queue1 left190
+260s process a3 in queue1 left185
+265s process a3 in queue1 left180
+270s process a3 in queue1 left175
+275s process a3 in queue1 left170
+280s process a3 in queue1 left165
+285s process a3 in queue1 left160
+290s process a3 in queue1 left155
+295s process a3 in queue1 left150
+time 300
+a2 1 0 left200
+a1 1 0 left130
+a0 1 1 left325
+a4 1 1 left185
+a3 1 1 left150
+queue2
+300s process a2 in queue1 left195
+305s process a2 in queue1 left190
+310s process a2 in queue1 left185
+315s process a2 in queue1 left180
+320s process a2 in queue1 left175
+325s process a2 in queue1 left170
+330s process a2 in queue1 left165
+335s process a2 in queue1 left160
+340s process a2 in queue1 left155
+345s process a2 in queue1 left150
+350s process a2 in queue1 left145
+355s process a2 in queue1 left140
+360s process a2 in queue1 left135
+365s process a2 in queue1 left130
+370s process a2 in queue1 left125
+375s process a2 in queue1 left120
+380s process a2 in queue1 left115
+385s process a2 in queue1 left110
+time 390
+a1 1 0 left130
+a0 1 1 left325
+a4 1 1 left185
+a3 1 1 left150
+a2 1 1 left110
+queue2
+390s process a1 in queue1 left125
+395s process a1 in queue1 left120
+400s process a1 in queue1 left115
+405s process a1 in queue1 left110
+410s process a1 in queue1 left105
+415s process a1 in queue1 left100
+420s process a1 in queue1 left95
+425s process a1 in queue1 left90
+430s process a1 in queue1 left85
+435s process a1 in queue1 left80
+440s process a1 in queue1 left75
+445s process a1 in queue1 left70
+450s process a1 in queue1 left65
+455s process a1 in queue1 left60
+460s process a1 in queue1 left55
+465s process a1 in queue1 left50
+470s process a1 in queue1 left45
+475s process a1 in queue1 left40
+time 480
+a0 1 1 left325
+a4 1 1 left185
+a3 1 1 left150
+a2 1 1 left110
+a1 1 1 left40
+queue2
+480s process a0 in queue1 left320
+485s process a0 in queue1 left315
+490s process a0 in queue1 left310
+495s process a0 in queue1 left305
+500s process a0 in queue1 left300
+505s process a0 in queue1 left295
+510s process a0 in queue1 left290
+515s process a0 in queue1 left285
+520s process a0 in queue1 left280
+525s process a0 in queue1 left275
+530s process a0 in queue1 left270
+535s process a0 in queue1 left265
+540s process a0 in queue1 left260
+545s process a0 in queue1 left255
+550s process a0 in queue1 left250
+555s process a0 in queue1 left245
+560s process a0 in queue1 left240
+565s process a0 in queue1 left235
+time 570
+a4 1 1 left185
+a3 1 1 left150
+a2 1 1 left110
+a1 1 1 left40
+a0 2 0 left235
+queue2
+570s process a4 in queue1 left180
+575s process a4 in queue1 left175
+580s process a4 in queue1 left170
+585s process a4 in queue1 left165
+590s process a4 in queue1 left160
+595s process a4 in queue1 left155
+600s process a4 in queue1 left150
+605s process a4 in queue1 left145
+610s process a4 in queue1 left140
+615s process a4 in queue1 left135
+620s process a4 in queue1 left130
+625s process a4 in queue1 left125
+630s process a4 in queue1 left120
+635s process a4 in queue1 left115
+640s process a4 in queue1 left110
+645s process a4 in queue1 left105
+650s process a4 in queue1 left100
+655s process a4 in queue1 left95
+time 660
+a3 1 1 left150
+a2 1 1 left110
+a1 1 1 left40
+a0 2 0 left235
+a4 2 0 left95
+queue2
+660s process a3 in queue1 left145
+665s process a3 in queue1 left140
+670s process a3 in queue1 left135
+675s process a3 in queue1 left130
+680s process a3 in queue1 left125
+685s process a3 in queue1 left120
+690s process a3 in queue1 left115
+695s process a3 in queue1 left110
+700s process a3 in queue1 left105
+705s process a3 in queue1 left100
+710s process a3 in queue1 left95
+715s process a3 in queue1 left90
+720s process a3 in queue1 left85
+725s process a3 in queue1 left80
+730s process a3 in queue1 left75
+735s process a3 in queue1 left70
+740s process a3 in queue1 left65
+745s process a3 in queue1 left60
+time 750
+a2 1 1 left110
+a1 1 1 left40
+a0 2 0 left235
+a4 2 0 left95
+a3 2 0 left60
+queue2
+750s process a2 in queue1 left105
+755s process a2 in queue1 left100
+760s process a2 in queue1 left95
+765s process a2 in queue1 left90
+770s process a2 in queue1 left85
+775s process a2 in queue1 left80
+780s process a2 in queue1 left75
+785s process a2 in queue1 left70
+790s process a2 in queue1 left65
+795s process a2 in queue1 left60
+800s process a2 in queue1 left55
+805s process a2 in queue1 left50
+810s process a2 in queue1 left45
+815s process a2 in queue1 left40
+820s process a2 in queue1 left35
+825s process a2 in queue1 left30
+830s process a2 in queue1 left25
+835s process a2 in queue1 left20
+time 840
+a1 1 1 left40
+a0 2 0 left235
+a4 2 0 left95
+a3 2 0 left60
+a2 2 0 left20
+queue2
+840s process a1 in queue1 left35
+845s process a1 in queue1 left30
+850s process a1 in queue1 left25
+855s process a1 in queue1 left20
+860s process a1 in queue1 left15
+865s process a1 in queue1 left10
+870s process a1 in queue1 left5
+875s process a1 in queue1 left0
+880s process a0 in queue1 left230
+885s process a0 in queue1 left225
+890s process a0 in queue1 left220
+895s process a0 in queue1 left215
+900s process a0 in queue1 left210
+905s process a0 in queue1 left205
+910s process a0 in queue1 left200
+915s process a0 in queue1 left195
+920s process a0 in queue1 left190
+925s process a0 in queue1 left185
+930s process a0 in queue1 left180
+935s process a0 in queue1 left175
+940s process a0 in queue1 left170
+945s process a0 in queue1 left165
+950s process a0 in queue1 left160
+955s process a0 in queue1 left155
+time 960
+a4 2 0 left95
+a3 2 0 left60
+a2 2 0 left20
+a0 2 1 left155
+queue2
+960s process a4 in queue1 left90
+965s process a4 in queue1 left85
+970s process a4 in queue1 left80
+975s process a4 in queue1 left75
+980s process a4 in queue1 left70
+985s process a4 in queue1 left65
+990s process a4 in queue1 left60
+995s process a4 in queue1 left55
+1000s process a4 in queue1 left50
+1005s process a4 in queue1 left45
+1010s process a4 in queue1 left40
+1015s process a4 in queue1 left35
+1020s process a4 in queue1 left30
+1025s process a4 in queue1 left25
+1030s process a4 in queue1 left20
+1035s process a4 in queue1 left15
+time 1040
+a3 2 0 left60
+a2 2 0 left20
+a0 2 1 left155
+a4 2 1 left15
+queue2
+1040s process a3 in queue1 left55
+1045s process a3 in queue1 left50
+1050s process a3 in queue1 left45
+1055s process a3 in queue1 left40
+1060s process a3 in queue1 left35
+1065s process a3 in queue1 left30
+1070s process a3 in queue1 left25
+1075s process a3 in queue1 left20
+1080s process a3 in queue1 left15
+1085s process a3 in queue1 left10
+1090s process a3 in queue1 left5
+1095s process a3 in queue1 left0
+1100s process a2 in queue1 left15
+1105s process a2 in queue1 left10
+1110s process a2 in queue1 left5
+1115s process a2 in queue1 left0
+1120s process a0 in queue1 left150
+1125s process a0 in queue1 left145
+1130s process a0 in queue1 left140
+1135s process a0 in queue1 left135
+1140s process a0 in queue1 left130
+1145s process a0 in queue1 left125
+1150s process a0 in queue1 left120
+1155s process a0 in queue1 left115
+1160s process a0 in queue1 left110
+1165s process a0 in queue1 left105
+1170s process a0 in queue1 left100
+1175s process a0 in queue1 left95
+1180s process a0 in queue1 left90
+1185s process a0 in queue1 left85
+1190s process a0 in queue1 left80
+1195s process a0 in queue1 left75
+time 1200
+a4 2 1 left15
+a0 3 0 left75
+queue2
+1200s process a4 in queue1 left10
+1205s process a4 in queue1 left5
+1210s process a4 in queue1 left0
+1215s process a0 in queue1 left70
+1220s process a0 in queue1 left65
+1225s process a0 in queue1 left60
+1230s process a0 in queue1 left55
+1235s process a0 in queue1 left50
+1240s process a0 in queue1 left45
+1245s process a0 in queue1 left40
+1250s process a0 in queue1 left35
+1255s process a0 in queue1 left30
+1260s process a0 in queue1 left25
+1265s process a0 in queue1 left20
+1270s process a0 in queue1 left15
+1275s process a0 in queue1 left10
+1280s process a0 in queue1 left5
+time 1285
+a0 3 1 left5
+queue2
+1285s process a0 in queue1 left0
+name   arrival   end   ready   running   waiting
+a1        90       880       390       130       360
+a3        60      1100       210       240       650
+a2        70      1120       300       200       620
+a4        40      1215       120       275       820
+a0        30      1290        30       415       845
